@@ -1,5 +1,7 @@
 package arithmaticProgression;
 /* Sample program illustrating input/output methods */
+//Needs a faster method, try arithmetic progression differences equation
+
 import java.util.Scanner;
 
 class Solution{
